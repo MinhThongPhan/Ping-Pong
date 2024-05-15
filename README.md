@@ -14,7 +14,7 @@ pip install pygame
 - Clone the Repository
 
 ```
-git clone https://github.com/YangTris/Tic-tac-toe](https://github.com/MinhThongPhan/PingPongGame)
+git clone https://github.com/MinhThongPhan/PingPongGame
 ```
 
 - Run the Server
