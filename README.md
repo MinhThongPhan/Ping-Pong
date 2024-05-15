@@ -29,7 +29,7 @@ python server.py
 python pong.py
 ```
 
-- Game rule
+## Game rule
 
 Mỗi người chơi điều khiển 1 thanh chắn. Khi bắt đầu bóng sẽ bắn ngẫu nhiên về một phía.
 Nhiệm vụ của người chơi là điều khiển thanh chắn của mình để chặn không cho bóng bay ra sau phía mình và đánh bật bóng về phía đối thủ.
