@@ -1,21 +1,38 @@
 # PingPongGame
-## Installing Packages
+## Installation
 
-- Install the following package dependencies using pip:
+- Instal package using pip:
+
+```
+pip install python
+```
 
 ```
 pip install pygame
 ```
 
-## How to Play?
 - Clone the Repository
 
 ```
-git clone https://github.com/YangTris/Tic-tac-toe
+git clone https://github.com/YangTris/Tic-tac-toe](https://github.com/MinhThongPhan/PingPongGame)
 ```
 
-- Start the Server
+- Run the Server
 
 ```
 python server.py
 ```
+
+- Run the Game on both devices
+
+```
+python pong.py
+```
+
+- Game rule
+
+Mỗi người chơi điều khiển 1 thanh chắn. Khi bắt đầu bóng sẽ bắn ngẫu nhiên về một phía.
+Nhiệm vụ của người chơi là điều khiển thanh chắn của mình để chặn không cho bóng bay ra sau phía mình và đánh bật bóng về phía đối thủ.
+Mỗi người chơi bắt đầu với 0 điểm. Khi đánh bóng thành công vượt qua người chơi đối diện, sẽ nhận được 1 điểm.
+Sau khi một trong 2 người chơi đạt số điểm 10, trò chơi kết thúc với người chơi đạt 10 điểm trước chiến thắng.
+
