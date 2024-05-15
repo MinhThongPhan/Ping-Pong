@@ -1,7 +1,8 @@
-# PingPongGame
+# Ping Pong Game
+
 ## Installation
 
-- Instal package using pip:
+- Install Packages
 
 ```
 pip install python
@@ -11,19 +12,19 @@ pip install python
 pip install pygame
 ```
 
-- Clone the Repository
+- Download Game
 
 ```
 git clone https://github.com/MinhThongPhan/PingPongGame
 ```
 
-- Run the Server
+- Run Server
 
 ```
 python server.py
 ```
 
-- Run the Game on both devices
+- Run Game on both devices
 
 ```
 python pong.py
