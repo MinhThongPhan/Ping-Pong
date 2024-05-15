@@ -29,6 +29,8 @@ python server.py
 python pong.py
 ```
 
+
+
 ## Game rule
 
 Mỗi người chơi điều khiển 1 thanh chắn. Khi bắt đầu bóng sẽ bắn ngẫu nhiên về một phía.
