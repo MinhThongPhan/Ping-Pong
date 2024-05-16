@@ -1,5 +1,10 @@
 # Ping-Pong Game
 
+## Report
+
+[report.pdf](https://github.com/MinhThongPhan/Ping-Pong/files/15337186/report.pdf)
+
+
 ## Installation
 
 - Install Packages
